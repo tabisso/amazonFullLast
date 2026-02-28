@@ -21,6 +21,7 @@ This project demonstrates frontend development, cloud integration, authenticatio
 * ⚡ Real-time UI updates
 * 📱 Fully responsive layout
 * ☁️ Cloud deployment
+* ✅ Secure Firebase configuration using environment variables
 
 ---
 
