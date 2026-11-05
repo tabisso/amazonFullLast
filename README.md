@@ -130,7 +130,7 @@ REACT_APP_AUTH_DOMAIN=your_domain
 **Tewodros Abisso**
 
 GitHub: https://github.com/tabisso
-Portfolio: https://tedwebsolutions.com
+Portfolio: https://www.tedstack.dev
 
 ---
 
